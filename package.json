@@ -1,0 +1,23 @@
+{
+  "name": "read.me-generator",
+  "version": "1.0.0",
+  "description": "License\r Description\r Installation\r Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lomax12436/READ.ME-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lomax12436/READ.ME-Generator/issues"
+  },
+  "homepage": "https://github.com/Lomax12436/READ.ME-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^19.6.1"
+  }
+}
